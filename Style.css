@@ -343,7 +343,7 @@ form {
    
     input[type="text"],
     input[type="email"],
-    input[type="number"],
+    input[type="tel"],
     select {
        width: 60%;
         margin-right: 0;
@@ -358,7 +358,7 @@ form {
 
    label[for="name"],
    label[for="email"],
-   label[for="phone"],
+   label[for="tel"],
    label[for="address"],
    label[for="city"],
    label[for="states"],
